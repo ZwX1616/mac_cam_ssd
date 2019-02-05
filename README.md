@@ -9,8 +9,8 @@ _example of using mxnet c api for prediction_
   (SSD is used in the demo, but other models like yolo can be used too)
   <br />
   <br />
+  <br />
   (tested on macOS High Sierra with Xcode)
-  
   
   requirements:
   
