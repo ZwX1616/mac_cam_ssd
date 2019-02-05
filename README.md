@@ -9,8 +9,8 @@ _example of using mxnet c api for prediction_
   (SSD is used in the demo, but other models like yolo can be used too)
   
   (tested on macOS High Sierra with Xcode)
-  
- 
+<br />
+<br />
   requirements:
   
   0. webcam
@@ -20,8 +20,8 @@ _example of using mxnet c api for prediction_
   2. mxnet 1.3 built from source
   
   3. (optional) gluoncv(python)
-  
-   
+<br />
+<br />
   note:
   
   1. frameworks libmxnet, libopencv_imgcodecs.4.x.x, libopencv_imgproc.4.x.x, libopencv_videoio.4.x.x, libopencv_core.4.x.x, libopencv_highgui.4.x.x need to be added to project in Xcode
