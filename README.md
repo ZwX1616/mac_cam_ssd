@@ -3,7 +3,7 @@
 Detect objects in webcam using deep learning models
 _example of using mxnet c api for prediction_
 
-![](https://github.com/ZwX1616/mac_cam_ssd/misc/demo.jpg)
+![](https://github.com/ZwX1616/mac_cam_ssd/blob/master/misc/demo.jpg)
 
   (SSD is used in the demo, but other models like yolo can be used too)
   (tested on macOS High Sierra with Xcode)
