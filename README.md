@@ -4,13 +4,13 @@ Detect objects in webcam using deep learning models
 
 _example of using mxnet c api for prediction_
 
-![](https://github.com/ZwX1616/mac_cam_ssd/blob/master/misc/demo.jg)
+![](https://github.com/ZwX1616/mac_cam_ssd/blob/master/misc/demo.jpg)
 
   (SSD is used in the demo, but other models like yolo can be used too)
   
   (tested on macOS High Sierra with Xcode)
   
-
+ 
   requirements:
   
   0. webcam
@@ -21,6 +21,7 @@ _example of using mxnet c api for prediction_
   
   3. (optional) gluoncv(python)
   
+   
   note:
   
   1. frameworks libmxnet, libopencv_imgcodecs.4.x.x, libopencv_imgproc.4.x.x, libopencv_videoio.4.x.x, libopencv_core.4.x.x, libopencv_highgui.4.x.x need to be added to project in Xcode
