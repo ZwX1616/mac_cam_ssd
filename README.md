@@ -11,10 +11,10 @@ _example of using mxnet c api for prediction_
   <br />
 (tested on macOS High Sierra with Xcode)<br />
 requirements:<br />
-0. webcam <br />
-1. opencv 4 <br />
-2. mxnet 1.3 built from source <br />
-3. (optional) gluoncv(python)
+1. webcam <br />
+2. opencv 4 <br />
+3. mxnet 1.3 built from source <br />
+4. (optional) gluoncv(python)
 <br />
 <br />
 note:<br />
