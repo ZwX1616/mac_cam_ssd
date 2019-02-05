@@ -21,3 +21,5 @@ note:<br />
 1. frameworks libmxnet, libopencv_imgcodecs.4.x.x, libopencv_imgproc.4.x.x, libopencv_videoio.4.x.x, libopencv_core.4.x.x, libopencv_highgui.4.x.x need to be added to project in Xcode<br />
 2. you can either use your own model (for example, some model built and trained in python), or use pretrained models from gluoncv (gluoncv.model_zoo.get_model, gluoncv.utils.export_block)<br />
 3. double check input data channel layout and whether it is normalized to make sure they agree with the model
+<br />
+<br />
