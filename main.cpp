@@ -203,7 +203,6 @@ int main(int argc, char **argv)
     json_buffer.reserve(json_handle.tellg());
     json_handle.seekg(0, std::ios::beg);
     json_buffer.assign((std::istreambuf_iterator<char>(json_handle)), std::istreambuf_iterator<char>());
-    
     assert(0==MXPredCreate(json_buffer.c_str(),
                            (const char*)param_data.GetBuffer(),
                            static_cast<int>(param_data.GetLength()),
